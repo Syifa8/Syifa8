@@ -6,15 +6,13 @@ Hi, saya Ega!
 🔧
 HTML
 Bootstrap
-Linu
 🌱 Proyek yang Sedang Saya Kerjakan
 Membangun solusi pertanian cerdas untuk menghubungkan petani langsung dengan pelanggan.
 Meningkatkan keterampilan saya dalam AI dan data science.
 Membuat fitur dan animasi untuk beberapa proyek web, seperti landing page, website ekspor, dan lainnya.
 Menulis blog seputar front-end development, website toko online, SEO, dan tips & trik lainnya.
 📫
-LinkedIn : -
-Twitter : -
+LinkedIn : Tegar Safruddin
 Email: gagak3367@gmail.com.com
 
 "English"
@@ -33,6 +31,5 @@ Enhancing my skills in AI and data science
 Developing features and animations for various web projects, such as landing pages, export
 Writing blogs about front-end development, e-commerce websites, SEO, and other tip
 📫 How to reach me
-LinkedIn
-Twitter
-Email: egacontact@example.com
+LinkedIn : Tegar Safruddin
+Email: gagak3367@gmail.com.com
